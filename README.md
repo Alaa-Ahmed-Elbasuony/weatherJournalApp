@@ -6,13 +6,12 @@ Asynchronous web application useing Web APIs & user data to update the UI for a 
 
 Use the [npm](https://www.npmjs.com/) after installation.
 
-bash
 npm install 
 
 ## How to run ?
 
-unzip the file.
+- Unzip the file.
 
-open the folder in VS code for example.
+- Open the folder in VS code for example.
 
-now, in the terminal use this code :- npm start.
+- Now, in the terminal use this code -> npm start.
